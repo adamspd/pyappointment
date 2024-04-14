@@ -6,7 +6,7 @@ django-bootstrap-form==3.3
 django-compressor==2.2
 django-static-precompiler==1.6
 icalendar==3.11.7
-idna==2.6
+idna==3.7
 -e git+https://github.com/mdave/json-config-parser.git@1c1ed2a2d6ac1356ce4455dd19262bd3dc86f7be#egg=json_config_parser
 -e git+https://github.com/venuebook/pycronofy.git@36a2f3fd1ce983913918e4bbc70346e4c9b2d5fe#egg=PyCronofy
 python-dateutil==2.6.1
